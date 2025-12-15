@@ -42,7 +42,7 @@ const Auth = () => {
         <Image
           source={images.onboarding}
           className="w-full mt-2"
-          style={{ height: height * 0.7 }}
+          style={{ height: height * 0.6 }}
           resizeMode="contain"
         />
 
